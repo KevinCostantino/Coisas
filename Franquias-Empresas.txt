@@ -1,0 +1,64 @@
+Pokémon : 17
+Mario : 7
+  Super Mario : 2
+  Mario Kart : 3
+  Mario Party : 1
+  Mario & Luigi : 1
+Ace Attorney : 5
+Danganronpa : 4
+Naruto : 4
+Smash : 3
+Gunvolt : 3
+Yu-Gi-Oh! : 3
+Inazuma Eleven : 3
+BoxBoy : 2
+TWEWY : 2
+Jump : 2
+DBZ : 2
+WWE : 2
+Portal : 2
+Megaman : 2
+One Piece : 1
+Monster Hunter : 1
+Zelda : 1
+Castlevania : 1
+Overwatch : 1
+Wario : 1
+DK : 1
+
+
+
+Nintendo : 27
+  Nintendo EAD : 9
+  Gamefreak : 10
+  HAL Laboratory : 3
+  Hudson : 1
+  Alpha Dream : 1
+  Intelligent Systems : 1
+  SORA : 1
+  Arika's : 1
+  Rare : 1
+Capcom : 10
+Spike Chunsoft : 5
+Bandai Namco : 4
+CyberConnect : 4
+Konami : 3
+Inti Creates : 3
+Level-5 : 3
+YUKE'S Co.: 2
+Square Enix : 2
+Valve : 2
+Marvelous : 2
+Yatch Club : 1
+Koei Tecmo : 1
+Dimps : 1
+Microsoft : 1
+Blizzard : 1
+Tencent : 1
+Devolver: 1
+Activision : 1
+EA : 1
+Sega : 1
+Atlus : 1
+Arc System : 1
+Outro : 25
